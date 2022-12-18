@@ -1,2 +1,3 @@
 Tahir Ulusoy : yontem1 ve yontem2 verilog ve testbench kodlarını yazdı.Ayrıca yontem3 verilog kodunda düzenlemeler yaptı.
 Mehmet Bozkurt : yontem3 verilog ve testbench kodunu yazdı.
+Mazhar Güzel :uart kısmını yaptı.
